@@ -7,3 +7,9 @@ _virtualenv
 .coverage
 
 .DS_Store
+
+# ignore keys
+hush
+
+# ignore env vars
+.env
